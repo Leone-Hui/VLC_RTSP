@@ -3,7 +3,12 @@
 
 MobileVLCKit.framework过大无法上传，下载后放入项目，demo就可以运行
 
-1、下载地址MobileVLCKit.framework  下载地址：https://nightlies.videolan.org/build/iOS/
+
+1、下载地址MobileVLCKit.framework 
+
+百度网盘下载地址：链接:https://pan.baidu.com/s/1dpvWiwZ6Rhz2AT037OsHsA  密码:rvth
+
+官网下载地址：https://nightlies.videolan.org/build/iOS/
 
 2、添加依赖库
 
